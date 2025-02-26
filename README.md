@@ -1,9 +1,8 @@
 ## Make Environment:
 ```bash
 python -m venv venv
-source venv/bin.activate
+source venv/bin/activate
 ```
-
 
 ## Install Dependencies:
 ```bash
