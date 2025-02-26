@@ -1,10 +1,10 @@
-## Make Environment:
+## Virtual Environment:
 ```bash
 python -m venv venv
 source venv/bin/activate
 ```
 
-## Install Dependencies:
+## Install modules:
 ```bash
 pip install pyautogui
 ```
