@@ -1,3 +1,8 @@
+## Make Environment:
+```bash
+python -m venv venv
+```
+
 ## Install Dependencies:
 ```bash
 pip install pyautogui
