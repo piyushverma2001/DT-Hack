@@ -27,5 +27,5 @@ python app.py
 
 ## Standalone Software:
 ```bash
-pyinstaller --onefile --windowed app.py
+pyinstaller --onefile app.py
 ```
